@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student & Vibe Coder focused on Mathematics and Computer Science  <br>Building projects to learn how things actually work  <br><br>Interests:<br>- Frontend developing <br>- Problem solving  <br>- Systems and backend  <br>- Personal projects for automations<br><br>**Always learning, always building**
+Student & Vibe Coder focused on Mathematics and Computer Science  <br>Building projects to learn how things actually work  <br><br>Interests:<br>- Frontend developing <br>- Problem solving  <br>- Systems and backend  <br>- Personal projects for automations<br><br>**Just trying to learn & improve**
 
 
 # 💻 Tech Stack:
