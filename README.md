@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student & Vibe Coder focused on Mathematics and Computer Science  <br>Building projects to learn how things actually work  <br><br>Interests:<br>- Frontend developing <br>- Problem solving  <br>- Systems and backend  <br>- Personal projects for automations<br><br>
+Student, Vibe Coder & [Freelancer](https://flowgrade.es/) focused on Mathematics and Computer Science  <br>Building projects to learn how things actually work  <br><br>Interests:<br>- Frontend developing <br>- Problem solving  <br>- Systems and backend  <br>- Personal projects for automations<br><br>
 
 <p align="center">
   <img src="https://files.catbox.moe/yxlk4a.png" alt="My photo" width="900"/>
